@@ -9,4 +9,6 @@ created_at: "2026-8-31"
 
 Spent the afternoon making the schematic and wiring it all up. Ran into a few issues, such as there not being a symbol for the LED backlight driver so I had to make a symbol from scratch which I had not done before.
 
-![Schematic]
+![Schematic](Images/Schemtatic.png)
+
+**Total time spent: 5 hours**
