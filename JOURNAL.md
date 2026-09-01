@@ -12,3 +12,7 @@ Spent the afternoon making the schematic and wiring it all up. Ran into a few is
 ![Schematic](Images/Schematic.png)
 
 **Total time spent: 5 hours**
+
+# September 1: Started the PCB design
+
+I started making the PCB layout
