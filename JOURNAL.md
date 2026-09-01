@@ -15,4 +15,6 @@ Spent the afternoon making the schematic and wiring it all up. Ran into a few is
 
 # September 1: Started the PCB design
 
-I started making the PCB layout
+I started the PCB layout and finished the board after a while. It took me a while to figure out how to lay out all the components, as I kept having issues with routing them. 
+
+**Total time spent: 5 hours**
